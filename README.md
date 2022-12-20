@@ -1,6 +1,6 @@
 # Predicting Medication Adherence from Smart Pill Bottle Data
 
-The code contained in this repository was used for my Ph.D. thesis work on predicting medication adherence from smart sensor streams (e.g., smart pill bottle caps). All code was authored by [Dr. Anna Baglione](https://github.com/abaglione), with adaptations from prior projects with Dr. Lihua Cai, [Dr. Sonia Baee](https://github.com/soniabaee), and [Tyler Spears](https://github.com/TylerSpears/). 
+The code contained in this repository was used for our lab's project on predicting medication adherence from smart sensor streams (e.g., smart pill bottle caps). All code was authored by [Dr. Anna Baglione](https://github.com/abaglione), with adaptations from prior projects with Dr. Lihua Cai, [Dr. Sonia Baee](https://github.com/soniabaee), and [Tyler Spears](https://github.com/TylerSpears/). 
 
 Data were collected by Dr. Kristen Wells and colleagues and were used with permission.
 
